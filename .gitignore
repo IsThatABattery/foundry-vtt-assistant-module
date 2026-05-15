@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+.env
+.DS_Store
+*.tsbuildinfo
+data/*.db
+data/*.json
+package/
+*.zip
+*.mcpb
+*.tgz

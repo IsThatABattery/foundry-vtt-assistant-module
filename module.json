@@ -1,0 +1,24 @@
+{
+  "id": "foundry-vtt-assistant",
+  "title": "Foundry VTT Assistant",
+  "description": "Foundry VTT module exposing a safe, GM-gated local API adapter for the Foundry DM Assistant MCP server.",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Francis / IsThatABattery"
+    }
+  ],
+  "esmodules": [
+    "dist/foundry-vtt-assistant.js"
+  ],
+  "socket": false,
+  "url": "https://github.com/IsThatABattery/foundry-vtt-assistant-module",
+  "manifest": "https://github.com/IsThatABattery/foundry-vtt-assistant-module/releases/latest/download/module.json",
+  "download": "https://github.com/IsThatABattery/foundry-vtt-assistant-module/releases/latest/download/module.zip",
+  "license": "MIT",
+  "readme": "https://github.com/IsThatABattery/foundry-vtt-assistant-module/blob/main/README.md"
+}
